@@ -9,7 +9,7 @@
 
 <div align="center">
 <p>
-   <img width="700" src="https://drive.google.com/file/d/1Z7YAlfncXLZvDvt2NJh_dCBxySpDLmfZ/view?usp=sharing"></a>
+   <img width="850" src="https://drive.google.com/uc?export=view&id=1Z7YAlfncXLZvDvt2NJh_dCBxySpDLmfZ"></a>
 </p>
 </div>
 
@@ -27,11 +27,13 @@ Also, we would like to ask you to consider the citation of the following paper t
 
 Please, check the websites of the Recogna Laboratory and the Institute for Technological Research to find more information about the work in progress in several domains of Machine Learning and Forest Management.
 
-Recogna Laboratory: [https://www.recogna.tech](https://www.recogna.tech)
+Recogna Laboratory: [https://www.recogna.tech](https://www.recogna.tech) <br>
 Institute for Technological Research: [https://www.ipt.br](https://www.ipt.br)
 
 If you have any further questions, please do not hesitate to contact us.
 
-|Danilo Samuel Jodas    | danilojodas@gmail.com |
-|Jo„o Paulo Papa        | joao.papa@unesp.br    |
-|Aline Ribeiro Machado  | asribeiro@ipt.br      |
+| Author                 | E-mail                |
+| ---------------------- | ----------------------|
+| Danilo Samuel Jodas    | danilojodas@gmail.com | <br>
+| Jo√£o Paulo Papa        | joao.papa@unesp.br    | <br>
+| Aline Ribeiro Machado  | asribeiro@ipt.br      | <br>
