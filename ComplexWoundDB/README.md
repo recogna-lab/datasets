@@ -8,7 +8,7 @@
 # ComplexWoundDB 
 A Database for Automatic Complex Wound Tissue Categorization 
 
-Dataset from "Talita A. Pereira, Regina C. Popim, Leandro A. Passos, Danillo R. Pereira, Clayton R. Pereira, and João P. Papa (2022). ComplexWoundDB: A Database for Automatic Complex Wound Tissue Categorization. Submitted to The 29th International Conference on Systems, Signals and Image Processing, IWSSIP 2022".
+Dataset from "Talita A. Pereira, Regina C. Popim, Leandro A. Passos, Danillo R. Pereira, Clayton R. Pereira, and João P. Papa (2022). ComplexWoundDB: A Database for Automatic Complex Wound Tissue Categorization. The 29th International Conference on Systems, Signals and Image Processing, IWSSIP 2022".
 
 ## Classification Results
 
