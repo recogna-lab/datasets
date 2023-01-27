@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>148067-36.jpg</filename>
+	<path>D:\Vida académica\Pós-doc\Projeto\Computador do lab\Source code\yolo4-keras\dataset\images\148067-36.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1376</xmin>
+			<ymin>826</ymin>
+			<xmax>1423</xmax>
+			<ymax>1410</ymax>
+		</bndbox>
+	</object>
+</annotation>

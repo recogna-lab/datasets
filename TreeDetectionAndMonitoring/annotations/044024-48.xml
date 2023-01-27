@@ -1,0 +1,38 @@
+<annotation>
+	<folder>new_images</folder>
+	<filename>044024-48.jpg</filename>
+	<path>D:\Projetos Machine Learning\Python\MobilenetV2-OD\dataset\new_images\044024-48.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>31</ymin>
+			<xmax>445</xmax>
+			<ymax>615</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>33</ymin>
+			<xmax>445</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+</annotation>

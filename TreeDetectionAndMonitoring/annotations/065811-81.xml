@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>065811-81.jpg</filename>
+	<path>D:\Vida académica\Pós-doc\Projeto\Computador do lab\Source code\yolo4-keras\dataset\images\065811-81.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>464</ymin>
+			<xmax>171</xmax>
+			<ymax>620</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>stem</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>509</ymin>
+			<xmax>256</xmax>
+			<ymax>624</ymax>
+		</bndbox>
+	</object>
+</annotation>

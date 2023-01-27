@@ -1,0 +1,38 @@
+<annotation>
+	<folder>new_images</folder>
+	<filename>007811-08.jpg</filename>
+	<path>D:\Projetos Machine Learning\Python\MobilenetV2-OD\dataset\new_images\007811-08.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stem</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>518</ymin>
+			<xmax>273</xmax>
+			<ymax>618</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>stick</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>503</ymin>
+			<xmax>294</xmax>
+			<ymax>618</ymax>
+		</bndbox>
+	</object>
+</annotation>
