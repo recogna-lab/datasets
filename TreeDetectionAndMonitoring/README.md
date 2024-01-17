@@ -5,7 +5,7 @@
 </p>
 </div>
 
-# Tree Crown Segmentation
+# Tree Detection and Monitoring
 
 <div align="center">
 <p>
