@@ -15,9 +15,8 @@ ComplexWoundDB is a database for automatic complex wound tissue categorization. 
 
 | Directory | Description |
 |-----------|-------------|
-| [`diabetic-foot/`](diabetic-foot/) | Contains images related to diabetic foot ulcers. |
-| [`pressure-ulcers/`](pressure-ulcers/) | Contains pressure ulcer images and corresponding annotations. |
-| [`skin-lesions/`](skin-lesions/) | Contains images of different types of skin lesions. |
+| [`annotations/`](annotations/) | Contains the images overlapped with the segmentation masks and the masks only. |
+| [`images/`](images/) | Contains the dataset images. |
 
 
 ## Classification Results
