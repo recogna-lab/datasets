@@ -6,7 +6,7 @@
 </div>
 
 # ComplexWoundDB 
-ComplexWoundDB is a database for automatic complex wound tissue categorization. If you use it, please cite our paper below. 
+ComplexWoundDB is a database for automatic complex wound tissue categorization. If you use it, please cite our paper below: 
 
 "Talita A. Pereira, Regina C. Popim, Leandro A. Passos, Danillo R. Pereira, Clayton R. Pereira, and João P. Papa. *ComplexWoundDB: A Database for Automatic Complex Wound Tissue Categorization.* In Proceedings of the 29th International Conference on Systems, Signals and Image Processing, pp. 1-4, 2022".
 
@@ -34,3 +34,38 @@ Some dataset samples: the first column figures the original image, annotation by
    <img width="850" src="https://drive.google.com/uc?export=view&id=1SwPYsVQX6RtQhrB805AZ877QTXebry_k"></a>
 </p>
 </div>
+
+
+## Patient-Image Information
+
+The table below displays some information from each patient and its corresponding image.
+
+| **Image** | **Patient** | **Time-point<br>(2017)** | **Anatomical location** /<br>**Wound** | **WOUND ID**<br>(patient-location) |
+|:-----:|---------|----------------------|--------------------------------|-------------------------------|
+| 01 | Patient 01 | 09 September | Right trochanter | 01-RT |
+| 02 | Patient 02 | 03 August | Sacral | 02-S |
+| 03 | Patient 02 | 03 August | Right trochanter | 02-RT |
+| 04 | Patient 02 | 06 June | Sacral | 02-S |
+| 05 | Patient 03 | 04 November | Left lateral malleolus | 03-LLM |
+| 06 | Patient 03 | 04 November | Right medial malleolus | 03-RMM |
+| 07 | Patient 03 | 04 November | Posterior right lower leg | 03-PRLL |
+| 08 | Patient 03 | 28 June | Right medial malleolus | 03-RMM |
+| 09 | Patient 04 | 12 April | Sacral | 04-S |
+| 10 | Patient 04 | 17 August | Right heel | 04-RH |
+| 11 | Patient 05 | 31 March | Left lateral malleolus | 05-LLM |
+| 12 | Patient 05 | 31 March | Sacral | 05-S |
+| 13 | Patient 05 | 31 March | Right trochanter | 05-RT |
+| 14 | Patient 05 | 31 March | Left trochanter | 05-LT |
+| 15 | Patient 05 | 19 April | Sacral | 05-S |
+| 16 | Patient 05 | 19 April | Right trochanter | 05-RT |
+| 17 | Patient 05 | 19 April | Left trochanter | 05-LT |
+| 18 | Patient 05 | 22 June | Sacral | 05-S |
+| 19 | Patient 05 | 22 June | Right trochanter | 05-RT |
+| 20 | Patient 06 | 30 January | Left trochanter | 06-LT |
+| 21 | Patient 06 | 09 June | Sacral | 06-S |
+| 22 | Patient 06 | 09 June | Left trochanter | 06-LT |
+| 23 | Patient 07 | 03 August | Right heel | 07-RH |
+| 24 | Patient 08 | 07 June | Sacral | 08-S |
+| 25 | Patient 09 | 30 May | Sacral | 09-S |
+| 26 | Patient 10 | 17 March | Left heel | 10-LH |
+| 27 | Patient 10 | 17 March | Right lateral malleolus | 10-RLM |
