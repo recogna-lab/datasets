@@ -1,7 +1,7 @@
 <div align="center">
 <p>
    <a align="left" href="recogna.tech" target="_blank">
-   <img width="700" src="https://i1.rgstatic.net/ii/lab.file/AS%3A610997660299264%401522684602522_xl"></a>
+   <img width="570" src="https://i1.rgstatic.net/ii/lab.file/AS%3A610997660299264%401522684602522_xl"></a>
 </p>
 </div>
 
