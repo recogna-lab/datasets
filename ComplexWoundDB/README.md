@@ -6,9 +6,19 @@
 </div>
 
 # ComplexWoundDB 
+
 ComplexWoundDB is a database for automatic complex wound tissue categorization. If you use it, please cite our paper below: 
 
 "Talita A. Pereira, Regina C. Popim, Leandro A. Passos, Danillo R. Pereira, Clayton R. Pereira, and João P. Papa. *ComplexWoundDB: A Database for Automatic Complex Wound Tissue Categorization.* In Proceedings of the 29th International Conference on Systems, Signals and Image Processing, pp. 1-4, 2022".
+
+## Repository structure
+
+| Directory | Description |
+|-----------|-------------|
+| [`diabetic-foot/`](diabetic-foot/) | Contains images related to diabetic foot ulcers. |
+| [`pressure-ulcers/`](pressure-ulcers/) | Contains pressure ulcer images and corresponding annotations. |
+| [`skin-lesions/`](skin-lesions/) | Contains images of different types of skin lesions. |
+
 
 ## Classification Results
 
